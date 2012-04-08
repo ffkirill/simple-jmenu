@@ -1,0 +1,9 @@
+This is simple jQueryUI based dropdown menu.
+Originally works with jQuery 1.6.2 & jQueryUI 1.8.14.
+
+USAGE:
+
+1. Make your HTML menu with ul's and li's inside a <div id="main-menu"> </div> tag.
+2. Insert "<script type="text/javascript" src="/path/to/jmenu.js" />"
+into your <head/> section.
+
